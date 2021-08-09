@@ -3,7 +3,7 @@ let = $accordion = document.getElementById("accordion");
 let ciaData = null;
 
 fetch(
-  "https://app.scrapinghub.com/api/v2/datasets/kdybI1E79Ww/download?format=json"
+  "https://app.zyte.com/api/v2/datasets/vFCjAZFv8ON/download?format=json"
 )
   .then((response) => {
     return response.json();
@@ -36,7 +36,7 @@ fetch(
       data-parent="#accordion"
     >
       <div class="card-body">
-        ${x.body}
+        ${x.paragraph}
         <br>
         <br>
         <a href=${x.url} target="_blank">Ver más</a>
