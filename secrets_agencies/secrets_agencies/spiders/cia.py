@@ -43,14 +43,8 @@ class CiaSpider(scrapy.Spider):
         for l in relative_links:
             link = url_cosntruct  + l
             package['url'] = link
-        
+
+        image = None
+
         yield package
-
-        """ yield {
-            'url': link,
-            'title': title,
-            'body': paragraph,
-            'documents': docs
-            } """
-
 

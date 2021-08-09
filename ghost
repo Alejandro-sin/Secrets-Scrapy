@@ -1,5 +1,0 @@
-  
-        # Usar la misma lógica de links para extraer en ho usar los wild cards.
-        #title = response.xpath('//div[@class="field-item even"]/h3/a/text()').getall()
-        #response.xpath('//div[@class="field-item even"]/*/a/text()').getall()
-        #abstract = response.xpath('//div[@class="field-item even"]/h3/p/text()').getall()
