@@ -8,10 +8,6 @@
   font-size: 20px;
 }
 
-.platzi_logo {
-  text-decoration: none !important;
-}
-
 
 .footer{
   display:flex;
@@ -26,3 +22,20 @@
   height: 100px;
 }
 
+
+.row{
+  border-style: solid ;
+  border-width: 2px;
+  border-color:  #484a4d;
+
+}
+
+.blocklogo {
+  display:flex;
+  justify-content: center;
+  width: 100px;
+}
+.blocklogo:hover {
+  background-color: #484a4d;
+  border-radius: 70px;
+}
