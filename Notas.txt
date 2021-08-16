@@ -1,2 +1,10 @@
 
+Notas:
 
+- Escribir en el Home una descripción más clara.
+- Modificar el Logo para ponerle encima el texto de Secrets Sraper
+- Encontrar la manera de manejar Fetch para que me enlsite los docuemntos de cada Archivo desclasificado.
+- Encontrar la forma de que las imagenes rendericen más rápido.
+- Documentar el readme del cómo se hizo, qué aprendí, que tencologías usé y la motivación de poner en prácticar
+lo aprendido en el curso de Scrapy.
+- Mirar la posibilidad de pasarle una imagen referente al texto.(Buscarla por nombres.)
